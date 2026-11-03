@@ -12,3 +12,5 @@ spec:
     repoURL: https://github.com/Bharathreddyd3297/argocdguestbook.git
     path: apps
     targetRevision: HEAD
+  syncPolicy:
+    automated: {}
